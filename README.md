@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Blessing-nwachukwu1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Health and Tech
+- 🌱 I’m currently deepening my hands on Qualitative health research
+- 💞️ I’m looking to collaborate on health Tech Projects
+- 📫 How to reach me nwachukwublessing117@gmail.com
+- 😄 Pronouns: she
+- ⚡ Fun fact: I'm a night crawler 😄
 
-<!---
-Blessing-nwachukwu1/Blessing-nwachukwu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
